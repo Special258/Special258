@@ -75,68 +75,48 @@ A platform where people trade skills instead of money. React · Node.js · Expre
 
 <table>
 <tr>
-<th align="left">Issuer</th>
-<th align="left">Certification</th>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/microsoft/0078D4" width="22"/> Microsoft</td>
-<td>Fundamentals of Responsible Generative AI</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/microsoft/0078D4" width="22"/> Microsoft</td>
-<td>Get Started Building with Power BI</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/microsoft/0078D4" width="22"/> Microsoft</td>
-<td>Plan & Prepare to Develop AI Solutions on Azure</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/microsoft/0078D4" width="22"/> Microsoft</td>
-<td>Explore Fundamentals of Data Visualization</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/microsoft/0078D4" width="22"/> Microsoft</td>
-<td>Data Science Essentials with Python [Beta]</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="22"/> Cisco Networking Academy</td>
-<td>Data Analytics Essentials</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="22"/> Cisco Networking Academy</td>
-<td>Enterprise Networking, Security & Automation</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="22"/> Cisco Networking Academy</td>
-<td>Introduction to IoT and Digital Transformation</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/cisco/1BA0D7" width="22"/> Cisco Networking Academy</td>
-<td>Python Essentials 1 & 2</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="22"/> HackerRank</td>
-<td>Python (Basic) — Verified</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="22"/> HackerRank</td>
-<td>Problem Solving (Intermediate & Basic) — Verified</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="22"/> HackerRank</td>
-<td>SQL (Basic) — Verified</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="22"/> HackerRank</td>
-<td>Badges: Python ★★★★★ · C Language ★★★★★</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="22"/> LinkedIn Learning</td>
-<td>Introduction to Career Skills in Data Analytics</td>
-</tr>
-<tr>
-<td><img src="https://cdn.simpleicons.org/forage/00A19A" width="22"/> Forage</td>
-<td>Bank of America — Global Markets Sales & Trading Job Simulation</td>
+<td valign="top" width="50%">
+
+<img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
+
+- Fundamentals of Responsible Generative AI
+- Get Started Building with Power BI
+- Plan & Prepare to Develop AI Solutions on Azure
+- Explore Fundamentals of Data Visualization
+- Data Science Essentials with Python [Beta]
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
+
+- Data Analytics Essentials
+- Enterprise Networking, Security & Automation
+- Introduction to IoT and Digital Transformation
+- Python Essentials 1 & 2
+
+</td>
+<td valign="top" width="50%">
+
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+
+- Python (Basic) — Verified
+- Problem Solving (Intermediate & Basic) — Verified
+- SQL (Basic) — Verified
+- Badges: Python ★★★★★ · C Language ★★★★★
+
+<br/>
+
+<img src="https://img.shields.io/badge/LinkedIn_Learning-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Learning"/>
+
+- Introduction to Career Skills in Data Analytics
+
+<br/>
+
+<img src="https://img.shields.io/badge/Forage-00A19A?style=for-the-badge&logoColor=white" alt="Forage"/>
+
+- Bank of America — Global Markets Sales & Trading Job Simulation
+
+</td>
 </tr>
 </table>
 

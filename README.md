@@ -12,11 +12,10 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/jalpatel-dataai"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" alt="LinkedIn"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Hoard_Warrior_20/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="38" alt="LeetCode"/></a>&nbsp;&nbsp;
-<a href="mailto:jalpatel798@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" width="38" alt="Email"/></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/jalpatel478"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="38" alt="HackerRank"/></a>&nbsp;&nbsp;
-<a href="https://github.com/Special258"><img src="https://cdn.simpleicons.org/github/181717" width="38" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/jalpatel-dataai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Hoard_Warrior_20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jalpatel798@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/jalpatel478"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 
 </div>
 
@@ -36,7 +35,6 @@ Currently, I’m building, experimenting, and exploring at the intersection of D
 
 Learn. Build. Analyze. Repeat. ⚡
 
-
 <br/>
 
 ## 🛠️ My Tech Stack
@@ -44,23 +42,49 @@ Learn. Build. Analyze. Repeat. ⚡
 <table>
 <tr>
 <td><b>Programming</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="programming"/></td>
+<td>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+</td>
 </tr>
 <tr>
 <td><b>Data & Analytics</b></td>
-<td><img src="https://skillicons.dev/icons?i=python,pandas,numpy&theme=dark" alt="data and analytics"/></td>
+<td>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
+</td>
 </tr>
 <tr>
 <td><b>Web & Full-Stack</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="web stack"/></td>
+<td>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</td>
 </tr>
 <tr>
 <td><b>Cloud & Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws,git,github,figma&theme=dark" alt="cloud and tools"/></td>
+<td>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Networking_%26_Security-0F9D58?style=for-the-badge"/>
+</td>
 </tr>
 <tr>
 <td><b>Other</b></td>
-<td>`Matplotlib` `Seaborn` `Power BI` `EDA` `Generative AI` `Data Structures` `Networking & Security` `RESTful API`</td>
+<td>
+<img src="https://img.shields.io/badge/Data_Structures-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/EDA-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge"/>
+</td>
 </tr>
 </table>
 

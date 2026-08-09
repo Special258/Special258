@@ -45,6 +45,7 @@ Learn. Build. Analyze. Repeat. ⚡
 <td><b>Programming</b></td>
 <td><img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="programming"/></td>
 </tr>
+
 <tr>
 <td><b>Data & Analytics</b></td>
 <td>
@@ -52,23 +53,27 @@ Learn. Build. Analyze. Repeat. ⚡
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" alt="Pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" alt="NumPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" alt="Matplotlib"/>
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjYwIiByeD0iMTIiIGZpbGw9IiM0NDQ4NzYiLz48dGV4dCB4PSIzMCIgeT0iMzgiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5zbnM8L3RleHQ+PC9zdmc+" width="55" alt="Seaborn"/>
+<img src="https://cdn.simpleicons.org/seaborn/3776AB" width="55" alt="Seaborn"/>
 </td>
 </tr>
+
 <tr>
 <td><b>Web & Full-Stack</b></td>
 <td><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="web stack"/></td>
 </tr>
+
 <tr>
 <td><b>Cloud & Tools</b></td>
 <td><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="cloud and tools"/></td>
 </tr>
+
 <tr>
 <td><b>Other</b></td>
 <td>
 <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="Data Structures (LeetCode)"/>&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" alt="Power BI"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" alt="EDA (Jupyter)"/>
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" alt="EDA (Jupyter)"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/googlecolab/F9AB00" width="42" alt="Google Colab"/>
 </td>
 </tr>
 </table>
@@ -78,6 +83,7 @@ Learn. Build. Analyze. Repeat. ⚡
 ## 🚀 Featured Project
 
 **🐝 [Hive — A Community Skill Exchange Platform](https://github.com/Special258/Hive)**
+
 Hive is a peer-to-peer skill exchange platform built around one simple idea — everyone knows something worth sharing. 🌱
 
 🔄 Learn something. Teach something. Connect with someone.
@@ -114,6 +120,7 @@ The platform brings learners and skilled individuals together through personaliz
 - Python Essentials 1 & 2
 
 </td>
+
 <td valign="top" width="50%">
 
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>

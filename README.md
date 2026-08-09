@@ -33,7 +33,7 @@ I’m interested in understanding the why behind data — finding patterns, ques
 
 Currently, I’m building, experimenting, and exploring at the intersection of Data • AI • Analytics • Real-world Problems. 🧠
 
-🔭 Currently building: A community-driven platform that turns knowledge exchange into something measurable and meaningful.
+🎯 Looking for: Full-time opportunities in Data Science / Data Analytics / AI
 
 Learn. Build. Analyze. Repeat. ⚡
 

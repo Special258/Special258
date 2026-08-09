@@ -13,10 +13,10 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/jalpatel-dataai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Hoard_Warrior_20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jalpatel798@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/jalpatel478"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://www.linkedin.com/in/jalpatel-dataai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://leetcode.com/u/Hoard_Warrior_20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="35"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=jalpatel798@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/jalpatel478"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="35"/></a>
 
 </div>
 
@@ -32,7 +32,7 @@ I’m interested in understanding the why behind data — finding patterns, ques
 
 Currently, I’m building, experimenting, and exploring at the intersection of Data • AI • Analytics • Real-world Problems. 🧠
 
-🎯 Looking for: Full-time opportunities in Data Science / Data Analytics / AI
+Looking for 🎯 : Full-time opportunities in Data Science / Data Analytics / AI
 
 Learn. Build. Analyze. Repeat. ⚡
 

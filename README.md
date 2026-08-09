@@ -4,6 +4,7 @@
 
 <br/>
 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="35" alt="waving hand"/>
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=42&pause=1000&color=6366F1&center=true&vCenter=true&width=420&height=60&lines=Hi%2C+I'm+Jal+Patel" alt="name-typing-svg"/>
 
 <br/>
@@ -43,47 +44,44 @@ Learn. Build. Analyze. Repeat. ⚡
 <tr>
 <td><b>Programming</b></td>
 <td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>Data & Analytics</b></td>
 <td>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>Web & Full-Stack</b></td>
 <td>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>Cloud & Tools</b></td>
 <td>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Networking_%26_Security-0F9D58?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </td>
 </tr>
 <tr>
 <td><b>Other</b></td>
 <td>
-<img src="https://img.shields.io/badge/Data_Structures-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/EDA-4B8BBE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESTful_API-FF6C37?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
 </td>
 </tr>
 </table>

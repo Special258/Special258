@@ -2,57 +2,68 @@
 
 <br/>
 
-<svg width="560" height="150" viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg">
+<svg width="600" height="180" viewBox="0 0 600 180" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#6366F1"/>
-      <stop offset="50%" stop-color="#22D3EE"/>
+    <linearGradient id="rainbowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F43F5E"/>
+      <stop offset="20%" stop-color="#F97316"/>
+      <stop offset="40%" stop-color="#EAB308"/>
+      <stop offset="60%" stop-color="#22C55E"/>
+      <stop offset="80%" stop-color="#3B82F6"/>
       <stop offset="100%" stop-color="#A855F7"/>
-      <animate attributeName="x1" values="0%;100%;0%" dur="5s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="100%;200%;100%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x1" values="0%;60%;0%" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;160%;100%" dur="6s" repeatCount="indefinite"/>
     </linearGradient>
-    <clipPath id="cmdReveal">
-      <rect x="0" y="0" height="150">
-        <animate attributeName="width" values="0;150;150" keyTimes="0;0.5;1" dur="0.9s" begin="0.2s" fill="freeze"/>
-      </rect>
-    </clipPath>
-    <clipPath id="nameReveal">
-      <rect x="0" y="0" height="150">
-        <animate attributeName="width" values="0;340;340" keyTimes="0;0.5;1" dur="1s" begin="1.15s" fill="freeze"/>
-      </rect>
-    </clipPath>
+    <linearGradient id="flourishGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#F97316"/>
+      <stop offset="50%" stop-color="#EC4899"/>
+      <stop offset="100%" stop-color="#8B5CF6"/>
+    </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="558" height="148" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <text x="52" y="112" font-family="'Brush Script MT','Segoe Script','Lucida Handwriting',cursive" font-style="italic" font-size="66" fill="url(#rainbowGrad)">JAL PATEL</text>
 
-  <rect x="1" y="1" width="558" height="3" fill="#22D3EE" opacity="0.12">
-    <animate attributeName="y" values="1;145;1" dur="6s" repeatCount="indefinite"/>
-  </rect>
+  <path d="M50,128 C140,146 300,146 430,124" fill="none" stroke="url(#flourishGrad)" stroke-width="3" stroke-linecap="round" stroke-dasharray="420" stroke-dashoffset="420">
+    <animate attributeName="stroke-dashoffset" values="420;0;0;420" keyTimes="0;0.45;0.85;1" dur="4s" repeatCount="indefinite"/>
+  </path>
 
-  <circle cx="22" cy="18" r="6" fill="#FF5F56"/>
-  <circle cx="42" cy="18" r="6" fill="#FFBD2E"/>
-  <circle cx="62" cy="18" r="6" fill="#27C93F"/>
-  <text x="280" y="22" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#8B949E">~/portfolio</text>
-  <line x1="0" y1="34" x2="560" y2="34" stroke="#30363D" stroke-width="1"/>
+  <circle cx="40" cy="40" r="5" fill="#F43F5E">
+    <animate attributeName="cy" values="40;30;40" dur="2.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="480" cy="35" r="6" fill="#3B82F6">
+    <animate attributeName="cy" values="35;24;35" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="90" r="4" fill="#22C55E">
+    <animate attributeName="cy" values="90;80;90" dur="2.1s" begin="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.1s" begin="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="70" cy="150" r="4" fill="#EAB308">
+    <animate attributeName="cy" values="150;140;150" dur="2.7s" begin="0.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="440" cy="150" r="5" fill="#A855F7">
+    <animate attributeName="cy" values="150;160;150" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.35;1;0.35" dur="2.9s" begin="0.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="15" cy="95" r="3" fill="#EC4899">
+    <animate attributeName="cy" values="95;86;95" dur="2.3s" begin="1.1s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;1;0.3" dur="2.3s" begin="1.1s" repeatCount="indefinite"/>
+  </circle>
 
-  <g clip-path="url(#cmdReveal)">
-    <text x="24" y="75" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" fill="#22D3EE">$</text>
-    <text x="42" y="75" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" fill="#C9D1D9">whoami</text>
+  <g fill="#F97316">
+    <path d="M550,45 L554,55 L564,55 L556,61 L559,71 L550,65 L541,71 L544,61 L536,55 L546,55 Z">
+      <animateTransform attributeName="transform" type="scale" values="1;1.3;1" additive="sum" dur="1.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;1;0.5" dur="1.8s" repeatCount="indefinite"/>
+    </path>
   </g>
-
-  <g clip-path="url(#nameReveal)">
-    <text x="24" y="115" font-family="'JetBrains Mono',Consolas,monospace" font-weight="700" font-size="30" fill="#FF0055" opacity="0.5">Jal Patel
-      <animateTransform attributeName="transform" type="translate" values="0,0;-2,0;0,0;2,0;0,0" keyTimes="0;0.1;0.2;0.3;1" dur="4s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="115" font-family="'JetBrains Mono',Consolas,monospace" font-weight="700" font-size="30" fill="#00E5FF" opacity="0.5">Jal Patel
-      <animateTransform attributeName="transform" type="translate" values="0,0;2,0;0,0;-2,0;0,0" keyTimes="0;0.1;0.2;0.3;1" dur="4s" repeatCount="indefinite"/>
-    </text>
-    <text x="24" y="115" font-family="'JetBrains Mono',Consolas,monospace" font-weight="700" font-size="30" fill="url(#nameGrad)">Jal Patel</text>
+  <g fill="#22D3EE">
+    <path d="M25,20 L27,25 L32,25 L28,28 L29,33 L25,30 L21,33 L22,28 L18,25 L23,25 Z">
+      <animateTransform attributeName="transform" type="scale" values="1;1.4;1" additive="sum" dur="2.1s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.4;1;0.4" dur="2.1s" begin="0.5s" repeatCount="indefinite"/>
+    </path>
   </g>
-
-  <rect x="198" y="90" width="4" height="32" fill="#22D3EE">
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2;0.2;0.7;0.7" dur="1s" begin="2.15s" repeatCount="indefinite"/>
-  </rect>
 </svg>
 
 <br/>

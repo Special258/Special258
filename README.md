@@ -43,46 +43,23 @@ Learn. Build. Analyze. Repeat. ⚡
 <table>
 <tr>
 <td><b>Programming</b></td>
-<td>
-<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=python,java,c&theme=dark" alt="programming"/></td>
 </tr>
 <tr>
 <td><b>Data & Analytics</b></td>
-<td>
-<img src="https://img.shields.io/badge/-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-<img src="https://img.shields.io/badge/-3776AB?style=for-the-badge&logo=chartdotjs&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn&theme=dark" alt="data and analytics"/></td>
 </tr>
 <tr>
 <td><b>Web & Full-Stack</b></td>
-<td>
-<img src="https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="web stack"/></td>
 </tr>
 <tr>
 <td><b>Cloud & Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="cloud and tools"/></td>
 </tr>
 <tr>
 <td><b>Other</b></td>
-<td>
-<img src="https://img.shields.io/badge/-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-<img src="https://img.shields.io/badge/-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
-</td>
+<td><img src="https://skillicons.dev/icons?i=leetcode,powerbi,jupyter,openai&theme=dark" alt="other skills"/></td>
 </tr>
 </table>
 

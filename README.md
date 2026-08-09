@@ -1,11 +1,59 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:6366F1,100:22D3EE&height=90&section=header" width="100%"/>
-
 <br/>
 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/wave.gif" width="35" alt="waving hand"/>
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=700&size=42&pause=1000&color=6366F1&center=true&vCenter=true&width=420&height=60&lines=Hi%2C+I'm+Jal+Patel" alt="name-typing-svg"/>
+<svg width="560" height="150" viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366F1"/>
+      <stop offset="50%" stop-color="#22D3EE"/>
+      <stop offset="100%" stop-color="#A855F7"/>
+      <animate attributeName="x1" values="0%;100%;0%" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="100%;200%;100%" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="cmdReveal">
+      <rect x="0" y="0" height="150">
+        <animate attributeName="width" values="0;150;150" keyTimes="0;0.5;1" dur="0.9s" begin="0.2s" fill="freeze"/>
+      </rect>
+    </clipPath>
+    <clipPath id="nameReveal">
+      <rect x="0" y="0" height="150">
+        <animate attributeName="width" values="0;340;340" keyTimes="0;0.5;1" dur="1s" begin="1.15s" fill="freeze"/>
+      </rect>
+    </clipPath>
+  </defs>
+
+  <rect x="1" y="1" width="558" height="148" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+
+  <rect x="1" y="1" width="558" height="3" fill="#22D3EE" opacity="0.12">
+    <animate attributeName="y" values="1;145;1" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="22" cy="18" r="6" fill="#FF5F56"/>
+  <circle cx="42" cy="18" r="6" fill="#FFBD2E"/>
+  <circle cx="62" cy="18" r="6" fill="#27C93F"/>
+  <text x="280" y="22" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="12" fill="#8B949E">~/portfolio</text>
+  <line x1="0" y1="34" x2="560" y2="34" stroke="#30363D" stroke-width="1"/>
+
+  <g clip-path="url(#cmdReveal)">
+    <text x="24" y="75" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" fill="#22D3EE">$</text>
+    <text x="42" y="75" font-family="'JetBrains Mono',Consolas,monospace" font-size="16" fill="#C9D1D9">whoami</text>
+  </g>
+
+  <g clip-path="url(#nameReveal)">
+    <text x="24" y="115" font-family="'JetBrains Mono',Consolas,monospace" font-weight="700" font-size="30" fill="#FF0055" opacity="0.5">Jal Patel
+      <animateTransform attributeName="transform" type="translate" values="0,0;-2,0;0,0;2,0;0,0" keyTimes="0;0.1;0.2;0.3;1" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="115" font-family="'JetBrains Mono',Consolas,monospace" font-weight="700" font-size="30" fill="#00E5FF" opacity="0.5">Jal Patel
+      <animateTransform attributeName="transform" type="translate" values="0,0;2,0;0,0;-2,0;0,0" keyTimes="0;0.1;0.2;0.3;1" dur="4s" repeatCount="indefinite"/>
+    </text>
+    <text x="24" y="115" font-family="'JetBrains Mono',Consolas,monospace" font-weight="700" font-size="30" fill="url(#nameGrad)">Jal Patel</text>
+  </g>
+
+  <rect x="198" y="90" width="4" height="32" fill="#22D3EE">
+    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.2;0.2;0.7;0.7" dur="1s" begin="2.15s" repeatCount="indefinite"/>
+  </rect>
+</svg>
 
 <br/>
 
@@ -13,7 +61,7 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/jalpatel-dataai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jalpatel-dataai"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=1" alt="LinkedIn" height="35"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/Hoard_Warrior_20/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="35"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jalpatel798@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="35"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/jalpatel478"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" height="35"/></a>

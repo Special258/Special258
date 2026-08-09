@@ -52,7 +52,7 @@ Learn. Build. Analyze. Repeat. ⚡
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" alt="Pandas"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" alt="NumPy"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" alt="Matplotlib"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/seaborn/seaborn-original.svg" width="55" alt="Seaborn"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="55" alt="Seaborn"/>
 </td>
 </tr>
 <tr>

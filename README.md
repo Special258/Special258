@@ -47,7 +47,13 @@ Learn. Build. Analyze. Repeat. ⚡
 </tr>
 <tr>
 <td><b>Data & Analytics</b></td>
-<td><img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,seaborn&theme=dark" alt="data and analytics"/></td>
+<td>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" alt="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" alt="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" alt="Matplotlib"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2MCIgaGVpZ2h0PSI2MCI+PHJlY3Qgd2lkdGg9IjYwIiBoZWlnaHQ9IjYwIiByeD0iMTIiIGZpbGw9IiM0NDQ4NzYiLz48dGV4dCB4PSIzMCIgeT0iMzgiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtZmFtaWx5PSJBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9ImJvbGQiIGZpbGw9IndoaXRlIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIj5zbnM8L3RleHQ+PC9zdmc+" width="55" alt="Seaborn"/>
+</td>
 </tr>
 <tr>
 <td><b>Web & Full-Stack</b></td>
@@ -59,7 +65,11 @@ Learn. Build. Analyze. Repeat. ⚡
 </tr>
 <tr>
 <td><b>Other</b></td>
-<td><img src="https://skillicons.dev/icons?i=leetcode,powerbi,jupyter,openai&theme=dark" alt="other skills"/></td>
+<td>
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="42" alt="Data Structures (LeetCode)"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="42" alt="Power BI"/>&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" alt="EDA (Jupyter)"/>
+</td>
 </tr>
 </table>
 
@@ -68,7 +78,15 @@ Learn. Build. Analyze. Repeat. ⚡
 ## 🚀 Featured Project
 
 **🐝 [Hive — A Community Skill Exchange Platform](https://github.com/Special258/Hive)**
-A platform where people trade skills instead of money. React · Node.js · Express · MongoDB · RESTful API · Figma
+Hive is a peer-to-peer skill exchange platform built around one simple idea — everyone knows something worth sharing. 🌱
+
+🔄 Learn something. Teach something. Connect with someone.
+
+The platform brings learners and skilled individuals together through personalized profiles, skill discovery, intelligent matching, and real-time communication, creating a space where knowledge flows both ways. 🧠↔️
+
+🚧 Currently building: Better discovery • Smarter matching • Smoother interactions • Scalable architecture
+
+🐝 Hive — Where skills find people, and people find skills.
 
 <br/>
 

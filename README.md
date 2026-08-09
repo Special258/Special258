@@ -57,13 +57,19 @@ Learn. Build. Analyze. Repeat. ⚡
 </tr>
 <tr>
 <td><b>Web & Full-Stack</b></td>
-<td><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="web stack"/></td>
+<td>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" alt="web stack"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" alt="HTML5"/> &nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" alt="CSS3"/>
+</td>
 </tr>
 <tr>
 <td><b>Cloud & Tools</b></td>
-<td><img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="cloud and tools"/></td>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55" alt="Oracle APEX"/> &nbsp;
-  <img src="https://www.svgrepo.com/show/375465/network-security.svg" width="55" alt="Networking and Security"/>
+<td>
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="cloud and tools"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55" alt="Oracle APEX"/> &nbsp;
+<img src="https://www.svgrepo.com/show/375465/network-security.svg" width="55" alt="Networking and Security"/>
+</td>
 </tr>
 <tr>
 <td><b>Other</b></td>

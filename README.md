@@ -64,7 +64,6 @@ Learn. Build. Analyze. Repeat. ⚡
 <td><b>Cloud & Tools</b></td>
 <td>
 <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="cloud and tools"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55" alt="Oracle APEX"/> &nbsp;
 <img src="https://www.svgrepo.com/show/375465/network-security.svg" width="55" alt="Networking and Security"/>
 </td>
 </tr>

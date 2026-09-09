@@ -92,6 +92,18 @@ The platform brings learners and skilled individuals together through personaliz
 
 🐝 Hive — Where skills find people, and people find skills.
 
+**🤖 [Janus — AI-Powered Voice Assistant](https://jalpatel.app.n8n.cloud)**
+
+Janus is an AI-powered voice assistant designed to interact with users through natural voice-based conversations and provide intelligent responses. 🧠🎙️
+
+🗣️ Speak naturally. 🤖 Get intelligent responses. ⚡ Experience a conversational AI assistant.
+
+The project focuses on creating a practical voice-driven AI experience by combining conversational intelligence with automation and real-time interaction. 🔄
+
+🚧 Currently building: Smarter conversations • Better voice interaction • Improved automation • Enhanced user experience
+
+🤖 Janus — A voice-first step toward more natural human-AI interaction.
+
 <br/>
 
 ## 📜 Certifications

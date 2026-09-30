@@ -294,30 +294,6 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 ---
 
-## 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/jalpatel-dataai">
-<img src="https://img.shields.io/badge/LinkedIn-Jal%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="mailto:jalpatel798@gmail.com">
-<img src="https://img.shields.io/badge/Email-jalpatel798%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://github.com/Special258">
-<img src="https://img.shields.io/badge/GitHub-Special258-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 ### Data → Insights → Models → Decisions

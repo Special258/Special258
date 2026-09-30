@@ -98,6 +98,13 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 </td>
 </tr>
+
+</table>
+
+</td>
+
+<td valign="top" width="50%">
+
 <h3 align="center">Development & Tools</h3>
 
 <table width="100%">
@@ -156,7 +163,6 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 </table>
 
 </div>
-
 ---
 
 ## 📌 Featured Projects

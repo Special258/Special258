@@ -1,306 +1,197 @@
-<!-- ========================================================= -->
-<!--                     PROFILE HEADER                        -->
-<!-- ========================================================= -->
+# Hi 👋, I'm Jal Patel
 
-<div align="center">
+### Aspiring Data Scientist | AI & Machine Learning | Data Analytics
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0F766E,100:0284C7&height=220&section=header&text=Jal%20Patel&fontSize=64&fontColor=FFFFFF&fontAlignY=42&animation=fadeIn"
-  width="100%"
-  alt="Jal Patel"
-/>
-
-<h3>Data Science • Machine Learning • Artificial Intelligence</h3>
-
-<p>
-Turning data into insights, models into decisions, and ideas into practical solutions.
-</p>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/jalpatel-dataai">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="mailto:jalpatel798@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Special258">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-📍 Vadodara, Gujarat, India  
-🎓 B.Tech — Computer Science & Engineering (AI & Data Science)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalpatel-dataai)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalpatel798@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Special258-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Special258)
 
 ---
 
-# About Me
+## About Me
 
-I am a final-year **Computer Science Engineering student specializing in Artificial Intelligence and Data Science**, with an interest in building practical data-driven and AI-powered solutions.
+I am a final-year **Computer Science Engineering student specializing in Artificial Intelligence and Data Science**, interested in solving practical problems using data, machine learning, and AI.
 
-My work focuses on the complete data workflow:
+My work focuses on the complete data science workflow:
 
-**Data Collection → Data Cleaning → EDA → Feature Engineering → Machine Learning → Visualization → Insights**
+**Data Cleaning → Exploratory Data Analysis → Feature Engineering → Machine Learning → Visualization → Insights**
 
-I also explore **AI agents, LLM workflows, prompt engineering, and automation** to build intelligent applications beyond traditional machine learning.
+I also explore **AI agents, LLM workflows, prompt engineering, and automation** alongside classical data science and machine learning.
 
-### Current Focus
-
-- 📊 Data Analysis & Exploratory Data Analysis
-- 🤖 Machine Learning & Applied AI
-- 🧠 AI Agents & LLM Workflows
-- 📈 Data Visualization & Business Intelligence
-- ☁️ Cloud & AI Services
-- ⚙️ Building practical end-to-end projects
+- 🎓 B.Tech in Computer Science & Engineering (AI & Data Science)
+- 📊 Interested in Data Science, Data Analytics and Machine Learning
+- 🤖 Exploring AI Agents, LLMs and Generative AI
+- 📈 Interested in data visualization and business intelligence
+- ☁️ Exploring cloud and AI technologies
+- 📍 Vadodara, Gujarat, India
 
 ---
 
-# Technical Skills
+## What I Work With
 
-<div align="center">
-
-<table>
-
-<tr>
-<th>Category</th>
-<th>Technologies</th>
-</tr>
-
-<tr>
-<td><b>Programming</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Data Science & Analytics</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="42" title="Pandas" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="42" title="NumPy" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="42" title="Matplotlib" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="42" title="Seaborn" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/main/logos/microsoft-power-bi.svg" height="42" title="Power BI" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Machine Learning</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="42" title="Scikit-learn" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="42" title="Jupyter" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Databases</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="42" title="PostgreSQL" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="42" title="MongoDB" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="42" title="Supabase" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Backend & Web</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="42" title="FastAPI" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" title="React" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>AI & Automation</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/main/logos/n8n-icon.svg" height="42" title="n8n" />
-&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Cloud</b></td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=aws" height="42" title="AWS" />
-&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=azure" height="42" title="Azure" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Design & Collaboration</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="42" title="Figma" />
-
-</td>
-</tr>
-
-</table>
-
-</div>
+| Area | Skills |
+|---|---|
+| **Data Science** | Data Cleaning, EDA, Feature Engineering, Statistical Analysis |
+| **Machine Learning** | Supervised Learning, Model Training, Model Evaluation |
+| **Data Analytics** | Data Analysis, Data Visualization, Business Intelligence |
+| **AI** | Generative AI, AI Agents, LLM Workflows, Prompt Engineering |
+| **Development** | Python, FastAPI, React, TypeScript |
+| **Cloud & Automation** | AWS, Azure AI, n8n |
+| **Databases** | PostgreSQL, MongoDB, Supabase |
+| **Design** | Figma |
 
 ---
 
-# Featured Projects
+## 🛠️ Tech Stack
 
-## Kairon — Customer Relationship Intelligence
-
-An AI-powered customer relationship intelligence platform focused on **customer churn analysis and retention decision support**.
-
-### Key Areas
-
-- Account-level risk scoring
-- Churn prediction
-- Cohort analysis
-- Retention insights
-- Batch prediction workflows
-- Data-driven decision support
-
-### Technology
-
-`Python` `FastAPI` `React` `TypeScript` `Scikit-learn` `Pandas` `Supabase`
-
-🔗 **Repository:** Add your Kairon repository link here
+| Category | Technologies |
+|---|---|
+| **Programming** | <img src="https://skillicons.dev/icons?i=python,java,c,typescript" /> |
+| **Data Science** | <img src="https://skillicons.dev/icons?i=python" /> `Pandas` `NumPy` `Matplotlib` `Seaborn` |
+| **Machine Learning** | `Scikit-learn` `Jupyter` |
+| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> `Supabase` |
+| **Backend & Web** | <img src="https://skillicons.dev/icons?i=fastapi,react,typescript" /> |
+| **Cloud** | <img src="https://skillicons.dev/icons?i=aws,azure" /> |
+| **AI & Automation** | `AI Agents` `LLMs` `Generative AI` `n8n` |
+| **Visualization** | `Power BI` |
+| **Design** | <img src="https://skillicons.dev/icons?i=figma" /> |
 
 ---
 
-## Janus — Conversational Task Automation Agent
+## 📌 Featured Projects
 
-Janus is an **LLM-powered conversational agent** designed to interact with users, maintain conversation context, and execute tasks using connected tools.
+| Project | Description | Technology |
+|---|---|---|
+| **Kairon — Customer Relationship Intelligence** | AI-powered platform focused on customer churn analysis, risk scoring, cohort analysis and retention decision support. | Python, FastAPI, React, TypeScript, Scikit-learn, Pandas, Supabase |
+| **Janus — Conversational Task Automation Agent** | LLM-powered conversational agent capable of maintaining context and using tools such as web search, calculator and code execution. | n8n, LLMs, AI Agents, Generative AI, Prompt Engineering |
+| **Hive — Community Skill Exchange Platform** | Community platform designed around skill exchange, allowing users to share and learn skills through a barter-based system. | REST API, UI/UX, React, Backend Development |
 
-### Capabilities
+### Project Links
 
-- Conversational interaction
-- Context-aware responses
-- Tool-based task execution
-- Web search
-- Calculator operations
-- Code execution
-- Workflow automation
-
-### Technology
-
-`AI Agents` `n8n` `LLMs` `Generative AI` `Prompt Engineering`
-
-🔗 **Repository:**  
-https://github.com/Special258/Janus
+- **Janus:** https://github.com/Special258/Janus
+- **Kairon:** Add repository link
+- **Hive:** Add repository link
 
 ---
 
-## Hive — Community Skill Exchange Platform
+## 💼 Experience
 
-A community-based platform designed around **skill exchange**, allowing users to share and learn skills through a barter-based system.
-
-### Core Features
-
-- User registration and authentication
-- User dashboard
-- Skill matching
-- Real-time sessions
-- Feedback and reputation
-- Community interaction
-
-### Technology
-
-`REST API` `UI/UX Design` `React` `Backend Development`
-
-🔗 **Repository:** Add your Hive repository link here
-
----
-
-# Experience
-
-## Data Analyst Intern — Excelerate
-
+### Data Analyst Intern — Excelerate
 **Aug 2025 – Sep 2025**
 
 **AI-Powered Data Insights**
 
-- Used AI-assisted analysis to support data-driven decision-making.
-- Produced structured analytical reports backed by data research.
-- Worked with data analysis and quality-assurance processes.
-- Applied data analytics concepts to practical business problems.
+- Worked with AI-assisted data analysis and insights.
+- Produced structured analytical reports based on data research.
+- Worked with data quality and analytical processes.
+- Applied data analysis concepts to practical problems.
 
----
-
-## Data Science Intern — Cognifyz Technologies Ltd.
-
+### Data Science Intern — Cognifyz Technologies Ltd.
 **May 2025 – Jun 2025**
 
-- Delivered real-world data analysis and visualization projects using Python and EDA.
-- Applied preprocessing, feature engineering, and statistical modelling.
-- Cleaned and transformed datasets to improve data quality and analytical accuracy.
-- Worked with exploratory analysis to identify patterns and trends.
+- Performed data analysis and visualization using Python.
+- Applied exploratory data analysis and preprocessing techniques.
+- Worked with feature engineering and statistical modelling.
+- Cleaned and transformed datasets for improved analytical quality.
 
 ---
 
-# Data Science Workflow
+## 🎓 Certifications
+
+| Provider | Certification | Focus |
+|---|---|---|
+| **Microsoft** | Fundamentals of Responsible Generative AI | Generative AI |
+| **Microsoft** | Get Started Building with Power BI | Business Intelligence |
+| **Microsoft** | Plan & Prepare to Develop AI Solutions on Azure | Cloud AI |
+| **Microsoft** | Explore Fundamentals of Data Visualization | Data Visualization |
+| **Cisco Networking Academy** | Data Analytics Essentials | Data Analytics |
+| **Cisco Networking Academy** | Data Science Essentials with Python (Beta) | Data Science |
+| **Cisco Networking Academy** | Python Essentials 1 & 2 | Python |
+| **Cisco Networking Academy** | Enterprise Networking, Security & Automation | Networking |
+| **Cisco Networking Academy** | Introduction to IoT and Digital Transformation | IoT |
+| **University of Michigan — Coursera** | Applied Machine Learning in Python | Machine Learning |
+| **University of Michigan — Coursera** | Introduction to Data Science in Python | Data Science |
+| **HackerRank** | Python (Basic) | Python |
+| **HackerRank** | Problem Solving (Basic & Intermediate) | Problem Solving |
+| **HackerRank** | SQL (Basic) | SQL |
+| **LinkedIn Learning** | Introduction to Career Skills in Data Analytics | Data Analytics |
+| **Forage** | Bank of America: Global Markets Sales & Trading Analyst Job Simulation | Finance |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-```text
-                Raw Data
-                   │
-                   ▼
-          Data Collection
-                   │
-                   ▼
-           Data Cleaning
-                   │
-                   ▼
-                  EDA
-                   │
-                   ▼
-        Feature Engineering
-                   │
-                   ▼
-          Model Building
-                   │
-                   ▼
-          Model Evaluation
-                   │
-                   ▼
-       Visualization & Insights
-                   │
-                   ▼
-           Decision Making
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Special258&show_icons=true&hide_border=true&theme=transparent"
+  height="165"
+  alt="GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Special258&layout=compact&hide_border=true&theme=transparent"
+  height="165"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=Special258&hide_border=true&theme=transparent"
+  width="70%"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 🎯 Areas of Interest
+
+- Data Science
+- Data Analytics
+- Machine Learning
+- Artificial Intelligence
+- Predictive Analytics
+- Data Visualization
+- Business Intelligence
+- Generative AI
+- AI Agents
+- LLM Applications
+- Cloud AI
+- Automation
+
+---
+
+## 📚 Currently Learning
+
+- Applied Machine Learning
+- Artificial Intelligence
+- LLM-based Applications
+- AI Agent Architecture
+- Cloud AI
+- Data Engineering Fundamentals
+- Model Deployment
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jal%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalpatel-dataai)
+
+[![Email](https://img.shields.io/badge/Email-jalpatel798%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalpatel798@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Special258-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Special258)
+
+</div>
+
+---
+
+<div align="center">
+
+### Data → Insights → Models → Decisions
+
+</div>

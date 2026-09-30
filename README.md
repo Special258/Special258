@@ -93,19 +93,12 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 <td><b>AI & Automation</b></td>
 <td align="center">
 
-<img src="https://skillicons.dev/icons?i=openai" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/openai-icon.svg" width="44" height="44" />
 &nbsp;
-<img src="https://skillicons.dev/icons?i=n8n" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/n8n-icon.svg" width="44" height="44" />
 
 </td>
 </tr>
-
-</table>
-
-</td>
-
-<td valign="top" width="50%">
-
 <h3 align="center">Development & Tools</h3>
 
 <table width="100%">

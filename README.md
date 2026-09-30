@@ -1,10 +1,33 @@
 # Hi 👋, I'm Jal Patel
 
-### Aspiring Data Scientist | AI & Machine Learning | Stock and Tech Analyst 
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalpatel-dataai)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalpatel798@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Special258-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Special258)
+### Aspiring Data Scientist | AI & Machine Learning | Data & Tech Analyst
+
+<br/>
+
+<a href="https://www.linkedin.com/in/jalpatel-dataai">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="mailto:jalpatel798@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+&nbsp;
+
+<a href="https://github.com/Special258">
+<img src="https://img.shields.io/badge/GITHUB-SPECIAL258-24292F?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+📍 Vadodara, Gujarat, India  
+🎓 B.Tech — Computer Science & Engineering (AI & Data Science)
+
+</div>
 
 ---
 
@@ -18,12 +41,11 @@ My work focuses on the complete data science workflow:
 
 I also explore **AI agents, LLM workflows, prompt engineering, and automation** alongside classical data science and machine learning.
 
-- 🎓 B.Tech in Computer Science & Engineering (AI & Data Science)
-- 📊 Data Science, Data Analytics & Machine Learning
-- 🤖 AI Agents, LLM Workflows & Generative AI
-- 📈 Data Visualization & Business Intelligence
-- ☁️ Cloud & AI Technologies
-- 📍 Vadodara, Gujarat, India
+- Data Science & Data Analytics
+- Machine Learning & Applied AI
+- AI Agents & LLM Workflows
+- Data Visualization & Business Intelligence
+- Cloud & AI Technologies
 
 ---
 
@@ -33,101 +55,93 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 <table>
 <tr>
-<th>Category</th>
-<th>Technologies</th>
-</tr>
 
+<td valign="top" width="50%">
+
+### Data & AI
+
+<table>
 <tr>
 <td><b>Programming</b></td>
-<td align="center">
-
+<td>
 <img src="https://skillicons.dev/icons?i=python,java,c,typescript" />
-
 </td>
 </tr>
 
 <tr>
 <td><b>Data Science</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48"/>
-
+<td>
+<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" />
 </td>
 </tr>
 
 <tr>
 <td><b>Machine Learning</b></td>
-<td align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="48"/>
-&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>Databases</b></td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-&nbsp;
-<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48"/>
-
-</td>
-</tr>
-
-<tr>
-<td><b>Backend & Web</b></td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,typescript" />
-
-</td>
-</tr>
-
-<tr>
-<td><b>Cloud</b></td>
-<td align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-
+<td>
+<img src="https://skillicons.dev/icons?i=sklearn,jupyter" />
 </td>
 </tr>
 
 <tr>
 <td><b>AI & Automation</b></td>
-<td align="center">
+<td>
+<img src="https://skillicons.dev/icons?i=openai" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" />
+</td>
+</tr>
 
-<img src="https://skillicons.dev/icons?i=openai,n8n" />
+</table>
 
+</td>
+
+<td valign="top" width="50%">
+
+### Development & Tools
+
+<table>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" />
+</td>
+</tr>
+
+<tr>
+<td><b>Backend & Web</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,react,typescript" />
+</td>
+</tr>
+
+<tr>
+<td><b>Cloud</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,azure" />
 </td>
 </tr>
 
 <tr>
 <td><b>Visualization</b></td>
-<td align="center">
-
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48"/>
-
+<td>
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" />
 </td>
 </tr>
 
 <tr>
 <td><b>Design</b></td>
-<td align="center">
-
+<td>
 <img src="https://skillicons.dev/icons?i=figma" />
-
 </td>
 </tr>
 
+</table>
+
+</td>
+
+</tr>
 </table>
 
 </div>
@@ -284,11 +298,21 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jal%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jalpatel-dataai)
+<a href="https://www.linkedin.com/in/jalpatel-dataai">
+<img src="https://img.shields.io/badge/LinkedIn-Jal%20Patel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Email](https://img.shields.io/badge/Email-jalpatel798%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jalpatel798@gmail.com)
+&nbsp;&nbsp;
 
-[![GitHub](https://img.shields.io/badge/GitHub-Special258-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Special258)
+<a href="mailto:jalpatel798@gmail.com">
+<img src="https://img.shields.io/badge/Email-jalpatel798%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/Special258">
+<img src="https://img.shields.io/badge/GitHub-Special258-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 

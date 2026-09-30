@@ -98,7 +98,6 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 <img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos@main/logos/n8n-icon.svg" width="44" height="44" />
 
 </td>
-</tr>
 <h3 align="center">Development & Tools</h3>
 
 <table width="100%">

@@ -4,28 +4,23 @@
 
 ### Aspiring Data Scientist | AI & Machine Learning | Data & Tech Analyst
 
-<br/>
+<br>
 
 <a href="https://www.linkedin.com/in/jalpatel-dataai">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="mailto:jalpatel798@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 &nbsp;
-
 <a href="https://github.com/Special258">
-<img src="https://img.shields.io/badge/GITHUB-SPECIAL258-24292F?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Special258-24292F?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<br/><br/>
+<br><br>
 
-📍 Vadodara, Gujarat, India  
-🎓 B.Tech — Computer Science & Engineering (AI & Data Science)
+📍 Vadodara, Gujarat, India &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 B.Tech — Computer Science & Engineering (AI & Data Science)
 
 </div>
 
@@ -58,36 +53,50 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 <td valign="top" width="50%">
 
-### Data & AI
+<h3 align="center">Data & AI</h3>
 
-<table>
+<table width="100%">
+
 <tr>
-<td><b>Programming</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,java,c,typescript" />
+<td width="42%"><b>Programming</b></td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" />
+
 </td>
 </tr>
 
 <tr>
-<td><b>Data Science</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib" />
-</td>
-</tr>
+<td><b>Data Science & Analytics</b></td>
+<td align="center">
 
-<tr>
-<td><b>Machine Learning</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=sklearn,jupyter" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="44" />
+
 </td>
 </tr>
 
 <tr>
 <td><b>AI & Automation</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=openai" />
+<td align="center">
+
+<img src="https://cdn.simpleicons.org/openai/FFFFFF" width="44" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" />
+<img src="https://cdn.simpleicons.org/n8n/EA4B71" width="44" />
+
 </td>
 </tr>
 
@@ -97,43 +106,53 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 <td valign="top" width="50%">
 
-### Development & Tools
+<h3 align="center">Development & Tools</h3>
 
-<table>
+<table width="100%">
+
 <tr>
-<td><b>Databases</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<td width="42%"><b>Databases</b></td>
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.simpleicons.org/supabase/3ECF8E" width="44" />
+
 </td>
 </tr>
 
 <tr>
 <td><b>Backend & Web</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=fastapi,react,typescript" />
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" />
+
 </td>
 </tr>
 
 <tr>
 <td><b>Cloud</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
-</td>
-</tr>
+<td align="center">
 
-<tr>
-<td><b>Visualization</b></td>
-<td>
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="54" />
+&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" />
+
 </td>
 </tr>
 
 <tr>
 <td><b>Design</b></td>
-<td>
-<img src="https://skillicons.dev/icons?i=figma" />
+<td align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44" />
+
 </td>
 </tr>
 
@@ -224,7 +243,11 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 </tr>
 
 <tr>
-<td rowspan="2"><b>University of Michigan</b><br><sub>Coursera</sub></td>
+<td rowspan="2">
+<b>University of Michigan</b>
+<br>
+<sub>Coursera</sub>
+</td>
 <td>Applied Machine Learning in Python</td>
 </tr>
 
@@ -271,23 +294,23 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Special258&show_icons=true&hide_border=true&theme=transparent"
-  height="165"
-  alt="GitHub Stats"
+src="https://github-readme-stats.vercel.app/api?username=Special258&show_icons=true&hide_border=true&theme=transparent"
+height="165"
+alt="GitHub Statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Special258&layout=compact&hide_border=true&theme=transparent"
-  height="165"
-  alt="Top Languages"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Special258&layout=compact&hide_border=true&theme=transparent"
+height="165"
+alt="Top Languages"
 />
 
-<br/><br/>
+<br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=Special258&hide_border=true&theme=transparent"
-  width="70%"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com?user=Special258&hide_border=true&theme=transparent"
+width="70%"
+alt="GitHub Contribution Streak"
 />
 
 </div>

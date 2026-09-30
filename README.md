@@ -59,46 +59,43 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 <tr>
 <td width="42%"><b>Programming</b></td>
-
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" />
 
 </td>
 </tr>
 
 <tr>
 <td><b>Data Science &<br>Analytics</b></td>
-
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/pandas.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/numpy.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/matplotlib.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/scikitlearn.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/powerbi.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/main/logos/microsoft-power-bi.svg" width="44" />
 
 </td>
 </tr>
 
 <tr>
 <td><b>AI & Automation</b></td>
-
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/openai.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/main/logos/openai.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/n8n.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/main/logos/n8n-icon.svg" width="44" />
 
 </td>
 </tr>
@@ -115,50 +112,46 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 <tr>
 <td width="42%"><b>Databases</b></td>
-
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/supabase.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/gilbarbara/logos/main/logos/supabase-icon.svg" width="44" />
 
 </td>
 </tr>
 
 <tr>
 <td><b>Backend & Web</b></td>
-
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" />
 
 </td>
 </tr>
 
 <tr>
 <td><b>Cloud</b></td>
-
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="58" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="54" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" />
 
 </td>
 </tr>
 
 <tr>
 <td><b>Design</b></td>
-
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44" height="44" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="44" />
 
 </td>
 </tr>

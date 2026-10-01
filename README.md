@@ -163,7 +163,6 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 </table>
 
 </div>
----
 
 ## 📌 Featured Projects
 

@@ -20,7 +20,7 @@
 
 <br><br>
 
-📍 Vadodara, Gujarat, India &nbsp;&nbsp; | &nbsp;&nbsp; 🎓 B.Tech — Computer Science & Engineering (AI & Data Science)
+&nbsp;&nbsp; 🎓 B.Tech — Computer Science & Engineering (AI & Data Science)
 
 </div>
 

@@ -67,7 +67,6 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="44" height="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" />
 
 </td>
 </tr>

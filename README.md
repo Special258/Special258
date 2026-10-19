@@ -82,8 +82,6 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="44" height="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="44" height="44" />
-&nbsp;
 
 </td>
 </tr>
@@ -130,7 +128,6 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="44" height="44" />
 &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="44" height="44" />
 
 </td>
 </tr>

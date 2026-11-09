@@ -289,16 +289,23 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 ## 📊 GitHub Stats
 
+<!--
+  NOTE: Replace YOUR-PROJECT with the name of your own Vercel deployment of
+  github-readme-stats (e.g. https://jal-readme-stats.vercel.app).
+  The public github-readme-stats.vercel.app instance is often rate-limited,
+  which is what caused the broken images.
+-->
+
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=Special258&show_icons=true&hide_border=true&theme=transparent"
+src="https://YOUR-PROJECT.vercel.app/api?username=Special258&show_icons=true&hide_border=true&theme=transparent"
 height="165"
 alt="GitHub Statistics"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Special258&layout=compact&hide_border=true&theme=transparent"
+src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=Special258&layout=compact&hide_border=true&theme=transparent"
 height="165"
 alt="Top Languages"
 />

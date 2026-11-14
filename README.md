@@ -298,15 +298,12 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 <div align="center">
 
-<img
-src="https://YOUR-PROJECT.vercel.app/api?username=Special258&show_icons=true&hide_border=true&theme=transparent"
-height="165"
+<img src="https://github-readme-stats.vercel.app/api?username=Special258&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Statistics" />
+
 alt="GitHub Statistics"
 />
 
-<img
-src="https://YOUR-PROJECT.vercel.app/api/top-langs/?username=Special258&layout=compact&hide_border=true&theme=transparent"
-height="165"
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Special258&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
 alt="Top Languages"
 />
 

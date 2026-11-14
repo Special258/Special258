@@ -138,7 +138,7 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 <td><b>Cloud</b></td>
 <td align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="58" height="44" />
+<img src="https://skillicons.dev/icons?i=aws" width="44" height="44" />
 &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="44" height="44" />
 

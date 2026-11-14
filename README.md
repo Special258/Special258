@@ -14,9 +14,6 @@
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/Special258">
-<img src="https://img.shields.io/badge/GitHub-Special258-24292F?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 
 <br><br>
 
@@ -287,17 +284,6 @@ I also explore **AI agents, LLM workflows, prompt engineering, and automation** 
 
 ---
 ## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Special258&show_icons=true&hide_border=true&theme=transparent" height="165" alt="GitHub Statistics" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Special258&layout=compact&hide_border=true&theme=transparent" height="165" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Special258&hide_border=true&theme=transparent" width="70%" alt="GitHub Contribution Streak" />
-
-</div>
 
 <img
 src="https://streak-stats.demolab.com?user=Special258&hide_border=true&theme=transparent"
